@@ -3,7 +3,13 @@
     "Name": "Svelte Quickstart Project - Open Source",
     "Description": "A basic template to quickly deploy a Svelte app to Fathym.",
     "Image": "https://www.fathym.com/img/svelte.png",
-    "PreviewImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png"
+    "PreviewImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png",
+    "Intents":[
+      "Svelte",
+      "Getting started",
+      "Website",
+      "Application"
+    ]
   },
   "Configurations": {
     "Full": {
