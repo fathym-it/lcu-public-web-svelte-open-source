@@ -2,8 +2,8 @@
   "Applications": {
     "$1": {
       "Application": {
-        "Description": "A basic starting point for sites built with Svelte.",
-        "Name": "Svelte Quickstart Project - Open Source"
+        "Description": "A Svelte starter app deployed to Fathym via an NPM package.",
+        "Name": "Svelte Starter - NPM Launch"
       },
       "LookupConfig": {
         "PathRegex": "/.*"

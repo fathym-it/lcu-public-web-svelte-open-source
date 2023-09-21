@@ -1,7 +1,7 @@
 {
   "Package": {
-    "Name": "Svelte Quickstart Project - Open Source",
-    "Description": "A basic template to quickly deploy a Svelte app to Fathym.",
+    "Name": "Svelte Starter - NPM Launch",
+    "Description": "A Svelte starter app deployed to Fathym via an NPM package.",
     "Button": "Launch",
     "Image": "https://www.fathym.com/assets/images/logo.png",
     "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
